@@ -9,7 +9,7 @@ print(cracked_password1)
 #test
 
 cracked_password2 = password_cracker.crack_sha1_hash(
-    "dcc466796201f7232b22a03781110a8871fd038c", True)
+    "da5a4e8cf89539e66097acd2f8af128acae2f8ae", True)
 print(cracked_password2)
 
 # Run unit tests automatically
